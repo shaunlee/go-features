@@ -1,4 +1,4 @@
-package main
+package promise
 
 type ResolveFunc func(interface{})
 type RejectFunc func(error)
